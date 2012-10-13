@@ -38,4 +38,6 @@ Constraint solver for those pesky sudoku puzzles.
     5 7 3 |2 9 1 |6 8 4
     1 6 4 |8 7 5 |2 9 3
 
+## Notes
 
+I tested my code with 50 easy, 95 hard, and 11 hardest puzzles from [Peter Norvig’s Sudoku Page](http://norvig.com/sudoku.html). For those of you who don’t know him, he is the Director of Research at Google and has “possibly the best compsci job on the planet” according to my high-school AI professor. His sudoku page is a great resource for anyone who wants to learn about constraint programming and searching. (Anyone who wants to learn Python idioms, please look at his sudoku solver…it is quite clever).
