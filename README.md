@@ -5,7 +5,7 @@ Constraint solver for those pesky sudoku puzzles.
 
 ## Output
 
-    chaoticryld ~/CS/Sudoku-Solver ] $ ruby sudoku_cp.rb 
+    [ chaoticryld ~/CS/Sudoku-Solver ] $ ruby sudoku_cp.rb 
 
     Running benchmarks...
     0.812 secs to solve 50 easy puzzles (avg: 0.016 secs (61 Hz))
